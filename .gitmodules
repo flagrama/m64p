@@ -1,21 +1,21 @@
 [submodule "mupen64plus-core"]
 	path = mupen64plus-core
-	url = git@github.com:flagrama/mupen64plus-core.git
+	url = https://github.com/flagrama/mupen64plus-core.git
 [submodule "mupen64plus-gui"]
 	path = mupen64plus-gui
-	url = git@github.com:flagrama/mupen64plus-gui.git
+	url = https://github.com/flagrama/mupen64plus-gui.git
 [submodule "mupen64plus-audio-sdl2"]
 	path = mupen64plus-audio-sdl2
-	url = git@github.com:m64p/mupen64plus-audio-sdl2.git
+	url = https://github.com/m64p/mupen64plus-audio-sdl2.git
 [submodule "mupen64plus-input-qt"]
 	path = mupen64plus-input-qt
-	url = git@github.com:m64p/mupen64plus-input-qt.git
+	url = https://github.com/m64p/mupen64plus-input-qt.git
 [submodule "mupen64plus-input-raphnetraw"]
 	path = mupen64plus-input-raphnetraw
-	url = git@github.com:raphnet/mupen64plus-input-raphnetraw.git
+	url = https://github.com/raphnet/mupen64plus-input-raphnetraw.git
 [submodule "parallel-rsp"]
 	path = parallel-rsp
-	url = git@github.com:loganmc10/parallel-rsp.git
+	url = https://github.com/loganmc10/parallel-rsp.git
 [submodule "parallel-rdp-standalone"]
 	path = parallel-rdp-standalone
-	url = git@github.com:loganmc10/parallel-rdp-standalone.git
+	url = https://github.com/loganmc10/parallel-rdp-standalone.git
