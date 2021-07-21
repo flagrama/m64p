@@ -1,3 +1,6 @@
 [submodule "mupen64plus-core"]
 	path = mupen64plus-core
 	url = git@github.com:flagrama/mupen64plus-core.git
+[submodule "mupen64plus-gui"]
+	path = mupen64plus-gui
+	url = git@github.com:flagrama/mupen64plus-gui.git
