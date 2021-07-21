@@ -4,3 +4,6 @@
 [submodule "mupen64plus-gui"]
 	path = mupen64plus-gui
 	url = git@github.com:flagrama/mupen64plus-gui.git
+[submodule "mupen64plus-audio-sdl2"]
+	path = mupen64plus-audio-sdl2
+	url = git@github.com:m64p/mupen64plus-audio-sdl2.git
