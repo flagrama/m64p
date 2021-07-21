@@ -7,3 +7,9 @@
 [submodule "mupen64plus-audio-sdl2"]
 	path = mupen64plus-audio-sdl2
 	url = git@github.com:m64p/mupen64plus-audio-sdl2.git
+[submodule "mupen64plus-input-qt"]
+	path = mupen64plus-input-qt
+	url = git@github.com:m64p/mupen64plus-input-qt.git
+[submodule "mupen64plus-input-raphnetraw"]
+	path = mupen64plus-input-raphnetraw
+	url = git@github.com:raphnet/mupen64plus-input-raphnetraw.git
