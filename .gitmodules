@@ -13,3 +13,9 @@
 [submodule "mupen64plus-input-raphnetraw"]
 	path = mupen64plus-input-raphnetraw
 	url = git@github.com:raphnet/mupen64plus-input-raphnetraw.git
+[submodule "parallel-rsp"]
+	path = parallel-rsp
+	url = git@github.com:loganmc10/parallel-rsp.git
+[submodule "parallel-rdp-standalone"]
+	path = parallel-rdp-standalone
+	url = git@github.com:loganmc10/parallel-rdp-standalone.git
