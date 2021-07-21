@@ -1,0 +1,21 @@
+[submodule "mupen64plus-core"]
+	path = mupen64plus-core
+	url = https://github.com/flagrama/mupen64plus-core.git
+[submodule "mupen64plus-gui"]
+	path = mupen64plus-gui
+	url = https://github.com/flagrama/mupen64plus-gui.git
+[submodule "mupen64plus-audio-sdl2"]
+	path = mupen64plus-audio-sdl2
+	url = https://github.com/m64p/mupen64plus-audio-sdl2.git
+[submodule "mupen64plus-input-qt"]
+	path = mupen64plus-input-qt
+	url = https://github.com/m64p/mupen64plus-input-qt.git
+[submodule "mupen64plus-input-raphnetraw"]
+	path = mupen64plus-input-raphnetraw
+	url = https://github.com/raphnet/mupen64plus-input-raphnetraw.git
+[submodule "parallel-rsp"]
+	path = parallel-rsp
+	url = https://github.com/loganmc10/parallel-rsp.git
+[submodule "parallel-rdp-standalone"]
+	path = parallel-rdp-standalone
+	url = https://github.com/loganmc10/parallel-rdp-standalone.git
